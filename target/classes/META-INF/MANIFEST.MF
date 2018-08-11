@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: employee-codechallenge
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: admin
+Implementation-Vendor-Id: com.test.codechallenge
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/employee-codechallenge
+Created-By: Maven Integration for Eclipse
+
